@@ -1,24 +1,32 @@
-<div align="center">
+<div align="center"><div align="center">
+  
+  <h1>Hey There! 👋<h1>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Instrument+Serif&size=30&pause=1000&color=000000&center=true&width=435&lines=I'm+Rafael+Malaquias)](https://git.io/typing-svg)
   
+</div>
   
  I'm currently learning - HTML - CSS
- </div>
  
- <div align="center">
+
   <a href="https://github.com/RafaeL-Malaquias">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaeL-Malaquias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaeL-Malaquias&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
 
+  
+ <div align="center">
+<h1>Skills 📋<h1>
+   
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,)](https://skillicons.dev)
+  </div>
+  
 <div align="center">
  <img src"https://github-readme-activity-graph.cyclic.app/graph?username=RafaeL-Malaquias&bg_color=000000&color=a1a1a1&line=0091ff&point=ff00d0&area"/>
 </div>
   
   ##
   
-  <div align="center">
+<div>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/rafaelmalaquias98/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="#" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>

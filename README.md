@@ -1,11 +1,15 @@
-<div align="center"><div align="center">
+
+<div align="center">
+    <h1>Hey There! 👋<h1>
+ <img height="150em" src="https://media.tenor.com/aOGrDnlny-YAAAAC/pc-master.gif"/> <br>
+      
   
-  <h1>Hey There! 👋<h1>
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Instrument+Serif&size=30&pause=1000&color=000000&center=true&width=435&lines=I'm+Rafael+Malaquias)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Instrument+Serif&size=30&pause=1000&color=F77900&&center=true&width=435&lines=I'm+Rafael+Malaquias)](https://git.io/typing-svg)
   
 </div>
-    
+      
+<div align="center">
+  
  🌱 I'm currently learning - HTML - CSS -JS
     
  🤔 I'm looking for help with Web Development

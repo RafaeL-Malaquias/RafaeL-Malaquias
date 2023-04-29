@@ -5,8 +5,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Instrument+Serif&size=30&pause=1000&color=000000&center=true&width=435&lines=I'm+Rafael+Malaquias)](https://git.io/typing-svg)
   
 </div>
-  
- I'm currently learning - HTML - CSS
+    
+ 🌱 I'm currently learning - HTML - CSS -JS
+    
+ 🤔 I'm looking for help with Web Development
+    
+ 💬 Can you ask me about Computer and Games...
+    
+ ⚡ Curiosity: I love coffee and playing games at night!!!
  
 
   <a href="https://github.com/RafaeL-Malaquias">
@@ -15,13 +21,18 @@
 
   
  <div align="center">
-<h1>Skills 📋<h1>
    
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,)](https://skillicons.dev)
-  </div>
+   <h1>🖥️ Technologies and Tools:</h1>
+<img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+<img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+<img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+<img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />  
+</div>
   
 <div align="center">
  <img src"https://github-readme-activity-graph.cyclic.app/graph?username=RafaeL-Malaquias&bg_color=000000&color=a1a1a1&line=0091ff&point=ff00d0&area"/>
+  
 </div>
   
   ##

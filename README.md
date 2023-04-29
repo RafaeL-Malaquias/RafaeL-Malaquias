@@ -1,7 +1,6 @@
 
 <div align="center">
     <h1>Hey There! 👋<h1>
- <img height="150em" src="https://media.tenor.com/aOGrDnlny-YAAAAC/pc-master.gif"/> <br>
       
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Instrument+Serif&size=30&pause=1000&color=F77900&&center=true&width=435&lines=I'm+Rafael+Malaquias)](https://git.io/typing-svg)
@@ -44,9 +43,13 @@
 <div>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/rafaelmalaquias98/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="#" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="#"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafael-malaquias-0a0854217/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>  
+  <a href="https://www.linkedin.com/in/rafael-malaquias-0a0854217/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br>
+  <img height="200em" width="400" src="https://media.tenor.com/aOGrDnlny-YAAAAC/pc-master.gif"/>
+</div>
+      
+      
+      
+

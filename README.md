@@ -19,8 +19,8 @@
  
 
   <a href="https://github.com/RafaeL-Malaquias">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaeL-Malaquias&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Rafael Malaquias github stats" /> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaeL-Malaquias&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaeL-Malaquias&show_icons=true&count_private=true&hide_border=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27" alt="#"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaeL-Malaquias&layout=compact&hide_border=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27"/>
 
   
  <div align="center">

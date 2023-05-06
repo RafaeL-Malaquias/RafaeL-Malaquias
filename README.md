@@ -3,7 +3,7 @@
     <h1>Hey There! 👋<h1>
       
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Instrument+Serif&size=30&pause=1000&color=F77900&&center=true&width=435&lines=I'm+Rafael+Malaquias)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Instrument+Serif&size=30&pause=1000&color=70a5fd&&center=true&width=435&lines=I'm+Rafael+Malaquias)](https://git.io/typing-svg)
   
 </div>
       
@@ -30,6 +30,7 @@
 <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+<img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />  
 </div>
   

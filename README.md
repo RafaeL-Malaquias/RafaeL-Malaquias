@@ -8,7 +8,7 @@
 </div>
       
 <div align="center">
-  
+          <div>
  🌱 I'm currently learning - HTML - CSS -JS
     
  🤔 I'm looking for help with Web Development
@@ -16,11 +16,10 @@
  💬 Can you ask me about Computer and Games...
     
  ⚡ Curiosity: I love coffee and playing games at night!!!
- 
-
-  <a href="https://github.com/RafaeL-Malaquias">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaeL-Malaquias&show_icons=true&count_private=true&hide_border=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27" alt="#"/> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaeL-Malaquias&layout=compact&hide_border=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27"/>
+            
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaeL-Malaquias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaeL-Malaquias&layout=compact&langs_count=7&theme=tokyonight"/>
+      
 
   
  <div align="center">

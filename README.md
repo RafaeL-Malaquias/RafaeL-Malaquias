@@ -3,7 +3,7 @@
     <h1>Hey There! 👋<h1>
       
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Instrument+Serif&size=30&pause=1000&color=70a5fd&&center=true&width=435&lines=I'm+Rafael+Malaquias)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Instrument+Serif&size=30&pause=1000&color=70a5fd&&center=true&width=435&lines=I'm+Rafael)](https://git.io/typing-svg)
   
 </div>
       

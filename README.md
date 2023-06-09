@@ -19,8 +19,8 @@
               
               
 <div align="center">  
-  <img width="49%" height="190px" src="https://github-readme-stats.vercel.app/api?username=RafaeL-Malaquias&show_icons=true&count_private=true&hide_border=true&title_color=00b6ff&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27" alt="Rafael github stats" /> 
-  <img width="40%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaeL-Malaquias&layout=compact&hide_border=true&title_color=00b6ff&text_color=bf91f3&bg_color=1a1b27" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaeL-Malaquias&show_icons=true&count_private=true&hide_border=true&title_color=00b6ff&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27" alt="Rafael github stats" /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaeL-Malaquias&layout=compact&hide_border=true&title_color=00b6ff&text_color=bf91f3&bg_color=1a1b27" />
       
 
   

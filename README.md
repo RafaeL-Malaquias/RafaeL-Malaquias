@@ -19,8 +19,8 @@
               
               
 <div align="center">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaeL-Malaquias&show_icons=true&count_private=true&hide_border=true&title_color=00b6ff&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27" alt="Rafael github stats" /> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaeL-Malaquias&layout=compact&hide_border=true&title_color=00b6ff&text_color=bf91f3&bg_color=1a1b27" />
+<img height="180em"src="https://github-readme-stats.vercel.app/api?username=RafaeL-Malaquias&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Rafael github stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaeL-Malaquias&layout=compact&theme=tokyonight&hide_border=true" />
       
 
   
@@ -30,6 +30,7 @@
 <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" />
 <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />  

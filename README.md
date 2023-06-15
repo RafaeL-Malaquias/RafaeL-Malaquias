@@ -17,10 +17,8 @@
     
  ⚡ Curiosity: I love coffee and playing games at night!
               
-              
-<div align="center">  
-<img height="180em"src="https://github-readme-stats.vercel.app/api?username=RafaeL-Malaquias&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Rafael github stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaeL-Malaquias&layout=compact&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/Rafael-Malaquias/github-readme-stats"><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaeL-Malaquias&show_icons=true&include_all_commits=true&theme=aura&hide_border=true" alt="Anurag's github stats" /></a>
+<a href="https://github.com/Rafael-Malaquias/github-readme-stats"><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaeL-Malaquias&layout=compact&theme=aura&hide_border=true" /></a>
       
 
   

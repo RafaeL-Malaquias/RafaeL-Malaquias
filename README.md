@@ -16,15 +16,17 @@
  💬 Can you ask me about Computer and Games...
     
  ⚡ Curiosity: I love coffee and playing games at night!
-              
-<a href="https://github.com/Rafael-Malaquias/github-readme-stats"><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaeL-Malaquias&show_icons=true&include_all_commits=true&theme=aura&hide_border=true" alt="RafaaL-Malaquias github stats" /></a>
-<a href="https://github.com/Rafael-Malaquias/github-readme-stats"><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaeL-Malaquias&layout=compact&theme=aura&hide_border=true" /></a>
+       
+<div align="center">
+  <a href="https://github.com/Rafael-Malaquias">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaeL-Malaquias&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaeL-Malaquias&layout=compact&langs_count=7&theme=aura"/>
+</div>
       
 
   
- <div align="center">
-   
-   <h1>🖥️ Technologies and Tools:</h1>
+<div align="center">
+<h1>🖥️ Technologies and Tools:</h1>
 <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />

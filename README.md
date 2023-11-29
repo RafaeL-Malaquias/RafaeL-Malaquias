@@ -49,8 +49,8 @@ Overall, I am passionate about technology and games enjoy using my skills to hel
 </div>
 <br>
 <div align="start">
- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RafaeL-Malaquias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
- <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaeL-Malaquias&layout=compact&langs_count=10&theme=tokyonight"/>
+ <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RafaeL-Malaquias&show_icons=true&theme=tokyonight&include_all_commits=true"    />
+ <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaeL-Malaquias&layout=compact&langs_count=10&theme=tokyonight"    />
  
 <br>
 

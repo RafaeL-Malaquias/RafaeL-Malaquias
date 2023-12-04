@@ -1,6 +1,6 @@
 <h1>Hey There! 👋</h1>
 <p>My name is Rafael <br>
-I have experience in computer maintenance, and I am currently studying to become a Front-end developer,  I am determined to become proficient in Web development and learn how to create efficient and scalable web applications.<br>
+I have experience in computer maintenance, and I am currently studying to become a Web developer,  I am determined to become proficient in Web development and learn how to create efficient and scalable web applications.<br>
 I'm skilled in diagnosing and solving hardware and software issues, and I'm comfortable working with different operating systems and software applications.<br>
     
 My interest in technology began at a young age, and I have always been drawn to learning about how things work.

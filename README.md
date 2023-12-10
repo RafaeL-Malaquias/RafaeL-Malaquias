@@ -1,11 +1,15 @@
 <h1>Hey There! 👋</h1>
-<p>My name is Rafael <br>
-I have experience in computer maintenance, and I am currently studying to become a Web developer,  I am determined to become proficient in Web development and learn how to create efficient and scalable web applications.<br>
-I'm skilled in diagnosing and solving hardware and software issues, and I'm comfortable working with different operating systems and software applications.<br>
+<p>
+Hi, I'm Rafael. Currently, I'm immersed in my studies to become a web developer. My passion is to achieve proficiency in programming to create efficient and scalable web applications.
     
-My interest in technology began at a young age, and I have always been drawn to learning about how things work.
-I am determined to keep learning and growing in this field to become an expert in Web development.
-Overall, I am passionate about technology and games enjoy using my skills to help others.</p>
+While I have experience in computer maintenance, my focus now lies in the intensive journey of learning programming.
+    
+I'm adept at diagnosing and solving hardware and software issues, and I feel comfortable working with different operating systems and applications.
+
+My affinity for technology emerged early, fueled by curiosity about how things work. I'm determined to keep learning and growing in this field to become an expert in web development.
+
+Furthermore, my passion for technology and games aligns with my desire to apply my skills to help others. I'm excited about the opportunities to contribute to the dynamic world of programming and eager for the challenges ahead.
+</p>
 <br>
 
 

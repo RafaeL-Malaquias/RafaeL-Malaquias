@@ -1,7 +1,8 @@
 
 <div align="center">
-<img height="250em" src="code-desk.svg" />
-<div>
+  <img  height="350em" src="code-desk.svg" />
+</div>
+
 <h1>Hey There! 👋</h1>
 <p>
 Hi, I'm Rafael. Currently, I'm immersed in my studies to become a web developer. My passion is to achieve proficiency in programming to create efficient and scalable web applications.

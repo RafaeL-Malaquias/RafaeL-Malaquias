@@ -15,8 +15,8 @@ My affinity for technology emerged early, fueled by curiosity about how things w
 
 Furthermore, my passion for technology and games aligns with my desire to apply my skills to help others. I'm excited about the opportunities to contribute to the dynamic world of programming and eager for the challenges ahead.
 </p>
-<br>
 
+<br>
 
  🌱 I'm currently learning - HTML - CSS - JS
     
@@ -30,15 +30,15 @@ Furthermore, my passion for technology and games aligns with my desire to apply 
   
 <div>
 <h1>🖥️ Technologies and Tools:</h1>
-<img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-<img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-<img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-<img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />  
- <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
-<img height="50em" src="https://avatars.githubusercontent.com/u/123869?s=200&v=4" />
-<img height="50em" src="https://avatars.githubusercontent.com/u/25160833?s=200&v=4)" />
+  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />  
+  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
+  <img height="50em" src="https://avatars.githubusercontent.com/u/123869?s=200&v=4" />
+  <img height="50em" src="https://avatars.githubusercontent.com/u/25160833?s=200&v=4)" />
 </div>
   
   

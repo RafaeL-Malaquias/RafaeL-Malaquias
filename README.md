@@ -1,3 +1,7 @@
+
+<div align="center">
+<img height="500em" src="code-desk.svg" />
+<div>
 <h1>Hey There! 👋</h1>
 <p>
 Hi, I'm Rafael. Currently, I'm immersed in my studies to become a web developer. My passion is to achieve proficiency in programming to create efficient and scalable web applications.
@@ -36,10 +40,6 @@ Furthermore, my passion for technology and games aligns with my desire to apply 
 <img height="50em" src="https://avatars.githubusercontent.com/u/25160833?s=200&v=4)" />
 </div>
   
-<div>
- <img src"https://github-readme-activity-graph.cyclic.app/graph?username=RafaeL-Malaquias&bg_color=000000&color=a1a1a1&line=0091ff&point=ff00d0&area"/>
-  
-</div>
   
   ##
   

@@ -3,7 +3,8 @@
   <img  height="350em" src="code-desk.svg" />
 </div>
 
-<h1>Hey There! 👋</h1>
+##
+<h1 align="center">Hey There! 👋</h1>
 <p>
 Hi, I'm Rafael. Currently, I'm immersed in my studies to become a web developer. My passion is to achieve proficiency in programming to create efficient and scalable web applications.
     
@@ -45,14 +46,29 @@ Furthermore, my passion for technology and games aligns with my desire to apply 
   ##
   
 <div>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/rafaelmalaquias98/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="#"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafael-malaquias-0a0854217/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
+    </a>
+  <a href="https://www.instagram.com/rafaelmalaquias98/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+    </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank">
+    </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+  </a> 
+  <a href="#">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/rafael-malaquias-0a0854217/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a>
+  <br>
 </div>
+
 <br>
+
 <div align="start">
  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RafaeL-Malaquias&show_icons=true&theme=tokyonight&count_private=true"/>
  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaeL-Malaquias&layout=compact&langs_count=10&theme=tokyonight&count_private=true"    />
@@ -62,6 +78,3 @@ Furthermore, my passion for technology and games aligns with my desire to apply 
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation">
 </div>
       
-      
-      
-

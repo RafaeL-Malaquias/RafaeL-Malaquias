@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img  height="350em" src="code-desk.svg" />
+  <img  height="350em" src="code-desk2.svg" />
 </div>
 
 ##

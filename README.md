@@ -1,8 +1,3 @@
-
-<div align="center">
-  <img  height="350em" src="code-desk2.svg" />
-</div>
-
 ##
 <h1 align="center">Hey There! 👋</h1>
 <p>

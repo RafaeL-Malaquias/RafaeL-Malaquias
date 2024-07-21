@@ -11,6 +11,8 @@ I'm Rafael. I am currently learning web programming to expand my skill set. I ha
  💬 Can you ask me about Computer and Games...
     
  ⚡ Curiosity: I love coffee and playing games at night!
+
+ <img style="position: absolute; right: 5em; top: 13em;" height="220em" src="code-desk2.svg">
        
 
   

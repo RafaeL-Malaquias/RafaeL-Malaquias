@@ -1,18 +1,8 @@
 ##
 <h1 align="center">Hey There! 👋</h1>
 <p>
-Hi, I'm Rafael. Currently, I'm immersed in my studies to become a web developer. My passion is to achieve proficiency in programming to create efficient and scalable web applications.
-    
-While I have experience in computer maintenance, my focus now lies in the intensive journey of learning programming.
-    
-I'm adept at diagnosing and solving hardware and software issues, and I feel comfortable working with different operating systems and applications.
-
-My affinity for technology emerged early, fueled by curiosity about how things work. I'm determined to keep learning and growing in this field to become an expert in web development.
-
-Furthermore, my passion for technology and games aligns with my desire to apply my skills to help others. I'm excited about the opportunities to contribute to the dynamic world of programming and eager for the challenges ahead.
+I'm Rafael. I am currently learning web programming to expand my skill set. I have a strong background in diagnosing and resolving hardware and software issues, and I am comfortable working with various operating systems and applications.
 </p>
-
-<br>
 
  🌱 I'm currently learning - HTML - CSS - JS
     

@@ -4,6 +4,7 @@
 I'm Rafael. I am currently learning web programming to expand my skill set. I have a strong background in diagnosing and resolving hardware and software issues, and I am comfortable working with various operating systems and applications.
 </p>
 
+
  🌱 I'm currently learning - HTML - CSS - JS
     
  🤔 I'm looking for help with Web Development
@@ -12,7 +13,7 @@ I'm Rafael. I am currently learning web programming to expand my skill set. I ha
     
  ⚡ Curiosity: I love coffee and playing games at night!
 
- <img style="position: absolute; right: 5em; top: 13em;" height="220em" src="code-desk2.svg">
+
        
 
   

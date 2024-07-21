@@ -12,7 +12,7 @@ I'm Rafael. I am currently learning web programming to expand my skill set. I ha
     
  ⚡ Curiosity: I love coffee and playing games at night!
 
- <div style="position: absolute; right: 5em; top: 13em;" >
+ <div>
   <img height="220em" src="code-desk2.svg">
  </div>
        

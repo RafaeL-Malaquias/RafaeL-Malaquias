@@ -13,16 +13,12 @@ I'm Rafael. I am currently learning web programming to expand my skill set. I ha
     
  ⚡ Curiosity: I love coffee and playing games at night!
 
-<<<<<<< HEAD
 
-=======
- <div style=" display: flex;
-    justify-content: flex-end;" >
+ <div>
   <img height="220em" src="code-desk2.svg">
  </div>
->>>>>>> dacb61b4e97dbef3d3f52c685ea98e4b2821cbf2
        
-
+       
   
 <div>
 <h1>🖥️ Technologies and Tools:</h1>

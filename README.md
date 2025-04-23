@@ -1,10 +1,22 @@
 ##
+
+<div align="center">
+    <img src="imgs/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif"  />
+</div>
+
 <h1 align="center">Hey There! 👋</h1>
 <p>
 I'm Rafael. I am currently learning web programming to expand my skill set. I have a strong background in diagnosing and resolving hardware and software issues, and I am comfortable working with various operating systems and applications.
 </p>
 
 
+##
+
+<img align="right" height="200" src="imgs/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"  />
+
+<br>
+
+###
  🌱 I'm currently learning - HTML - CSS - JS
     
  🤔 I'm looking for help with Web Development
@@ -14,27 +26,29 @@ I'm Rafael. I am currently learning web programming to expand my skill set. I ha
  ⚡ Curiosity: I love coffee and playing games at night!
 
 
- <div>
-  <img height="220em" src="code-desk2.svg">
- </div>
-       
-       
+  <br>   
+  <br>   
+  <br> 
   
 <div>
-<h1>🖥️ Technologies and Tools:</h1>
-  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />  
-  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
-  <img height="50em" src="https://avatars.githubusercontent.com/u/123869?s=200&v=4" />
-  <img height="50em" src="https://avatars.githubusercontent.com/u/25160833?s=200&v=4)" />
+  <h1>💻 Tech Stack:
+      <img   height="20px" src="imgs/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif">
+  </h1>
+      <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+      <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+      <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+      <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+      <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+      <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />  
+      <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
+      <img height="50em" src="https://avatars.githubusercontent.com/u/123869?s=200&v=4" />
+      <img height="50em" src="https://avatars.githubusercontent.com/u/25160833?s=200&v=4)" />
 </div>
   
   
   ##
+
+
   
 <div>
   <a href="#" target="_blank">
@@ -59,7 +73,10 @@ I'm Rafael. I am currently learning web programming to expand my skill set. I ha
 </div>
 
 <br>
+<br>
 
+
+<h1>📊 GitHub Stats:</h1>
 <div align="start">
  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RafaeL-Malaquias&show_icons=true&theme=tokyonight&count_private=true"/>
  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaeL-Malaquias&layout=compact&langs_count=10&theme=tokyonight&count_private=true"    />

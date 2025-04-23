@@ -1,7 +1,7 @@
 ##
 
 <div align="center">
-    <img height="200" src="imgs/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif"  />
+    <img src="imgs/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif"  />
 </div>
 
 <h1 align="center">Hey There! 👋</h1>

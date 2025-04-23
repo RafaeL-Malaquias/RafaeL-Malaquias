@@ -1,7 +1,7 @@
 ##
 
 <div align="center">
-    <img src="imgs/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif"  />
+    <img height="200" src="imgs/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif"  />
 </div>
 
 <h1 align="center">Hey There! 👋</h1>
@@ -83,6 +83,15 @@ I'm Rafael. I am currently learning web programming to expand my skill set. I ha
  
 <br>
 
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation">
+
+  
 </div>
       
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RafaeL-Malaquias/RafaeL-Malaquias/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RafaeL-Malaquias/RafaeL-Malaquias/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RafaeL-Malaquias/RafaeL-Malaquias/output/pacman-contribution-graph.svg">
+</picture>
+
+###

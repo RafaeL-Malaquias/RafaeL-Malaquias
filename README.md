@@ -34,8 +34,8 @@ I'm Rafael. I am currently learning web programming to expand my skill set. I ha
   <h1>💻 Tech Stack:
       <img src="imgs/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" height="30" width="40">
   </h1>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="50" width="50" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"  height="50" width="50" />
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="50" width="50" /></a>
+      <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"  height="50" width="50" /></a>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  height="50" width="50"  />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"  height="50" width="50" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  height="50" width="50"  />

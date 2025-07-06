@@ -12,7 +12,7 @@ I'm Rafael. I am currently learning web programming to expand my skill set. I ha
 
 ##
 
-<img align="right" height="200" src="imgs/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"  />
+<img align="right" src="imgs/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"  height="200" width="200"  />
 
 <br>
 
@@ -32,17 +32,17 @@ I'm Rafael. I am currently learning web programming to expand my skill set. I ha
   
 
   <h1>💻 Tech Stack:
-      <img   height="20p" src="imgs/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif">
+      <img src="imgs/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" height="30" width="40">
   </h1>
-      <img height="50" height="20"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-      <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-      <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-      <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-      <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-      <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />  
-      <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
-      <img height="50" src="https://avatars.githubusercontent.com/u/123869?s=200&v=4" />
-      <img height="50" src="https://avatars.githubusercontent.com/u/25160833?s=200&v=4)" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="50" width="50" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"  height="50" width="50" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  height="50" width="50"  />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"  height="50" width="50" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  height="50" width="50"  />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"  height="50" width="50"  />  
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg"  height="50" width="50"  />
+      <img  src="https://avatars.githubusercontent.com/u/123869?s=200&v=4"  height="50" width="50"  />
+      <img  src="https://avatars.githubusercontent.com/u/25160833?s=200&v=4)"  height="50" width="50"  />
 
   
   

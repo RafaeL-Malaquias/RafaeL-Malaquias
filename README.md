@@ -30,7 +30,7 @@ I'm Rafael. I am currently learning web programming to expand my skill set. I ha
   <br>   
   <br> 
   
-<div>
+
   <h1>💻 Tech Stack:
       <img   height="20px" src="imgs/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif">
   </h1>
@@ -43,7 +43,7 @@ I'm Rafael. I am currently learning web programming to expand my skill set. I ha
       <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
       <img height="50em" src="https://avatars.githubusercontent.com/u/123869?s=200&v=4" />
       <img height="50em" src="https://avatars.githubusercontent.com/u/25160833?s=200&v=4)" />
-</div>
+
   
   
   ##

@@ -32,17 +32,17 @@ I'm Rafael. I am currently learning web programming to expand my skill set. I ha
   
 
   <h1>💻 Tech Stack:
-      <img   height="20px" src="imgs/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif">
+      <img   height="20p" src="imgs/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif">
   </h1>
-      <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-      <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-      <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-      <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-      <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-      <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />  
-      <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
-      <img height="50em" src="https://avatars.githubusercontent.com/u/123869?s=200&v=4" />
-      <img height="50em" src="https://avatars.githubusercontent.com/u/25160833?s=200&v=4)" />
+      <img height="50" height="20"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+      <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+      <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+      <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+      <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+      <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />  
+      <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
+      <img height="50" src="https://avatars.githubusercontent.com/u/123869?s=200&v=4" />
+      <img height="50" src="https://avatars.githubusercontent.com/u/25160833?s=200&v=4)" />
 
   
   
@@ -78,8 +78,8 @@ I'm Rafael. I am currently learning web programming to expand my skill set. I ha
 
 <h1>📊 GitHub Stats:</h1>
 <div align="start">
- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RafaeL-Malaquias&show_icons=true&theme=tokyonight&count_private=true"/>
- <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaeL-Malaquias&layout=compact&langs_count=10&theme=tokyonight&count_private=true"    />
+ <img height="160" src="https://github-readme-stats.vercel.app/api?username=RafaeL-Malaquias&show_icons=true&theme=tokyonight&count_private=true"/>
+ <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaeL-Malaquias&layout=compact&langs_count=10&theme=tokyonight&count_private=true"    />
  
 <br>
 

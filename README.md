@@ -12,23 +12,11 @@ I'm Rafael. I am currently learning web programming to expand my skill set. I ha
 
 ##
 
-<img align="right" src="imgs/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"  height="200" width="200"  />
+<img align="center" src="imgs/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"  height="200" width="200"  />
 
 <br>
 
-###
- 🌱 I'm currently learning - HTML - CSS - JS
-    
- 🤔 I'm looking for help with Web Development
-    
- 💬 Can you ask me about Computer and Games...
-    
- ⚡ Curiosity: I love coffee and playing games at night!
-
-
-  <br>   
-  <br>   
-  <br> 
+<br> 
   
 
   <h1>💻 Tech Stack:

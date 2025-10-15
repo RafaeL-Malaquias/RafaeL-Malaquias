@@ -9,9 +9,6 @@
 I'm Rafael. I am currently learning web programming to expand my skill set. I have a strong background in diagnosing and resolving hardware and software issues, and I am comfortable working with various operating systems and applications.
 </p>
 
-
-##
-
 <img align="center" src="imgs/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"  height="200" width="200"  />
 
 <br>
@@ -81,20 +78,29 @@ I'm Rafael. I am currently learning web programming to expand my skill set. I ha
 
 
 <h1>📊 GitHub Stats:</h1>
+
 <div align="start">
- <img height="160" src="https://github-readme-stats.vercel.app/api?username=RafaeL-Malaquias&show_icons=true&theme=tokyonight&count_private=true"/>
- <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaeL-Malaquias&layout=compact&langs_count=10&theme=tokyonight&count_private=true"    />
- 
-<br>
+  <picture>
+        <source
+          srcset="https://github-readme-stats.vercel.app/api?username=RafaeL-Malaquias&show_icons=true&theme=tokyonight"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source
+          srcset="https://github-readme-stats.vercel.app/api?username=RafaeL-Malaquias&show_icons=true"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-stats.vercel.app/api?username=RafaeL-Malaquias&show_icons=true" />
+  </picture>
 
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation">
+  <br>
 
+  <a href="https://github.com/RafaeL-Malaquias/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RafaeL-Malaquias&layout=compact&langs_count=8&card_width=320" />
+  </a>
+
+  <br>
+   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation">
   
 </div>
-      
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RafaeL-Malaquias/RafaeL-Malaquias/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RafaeL-Malaquias/RafaeL-Malaquias/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+  
+ 

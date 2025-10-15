@@ -1,3 +1,10 @@
+<!-- HEADER ANIMADO -->
+<h1 align="center">👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFEA&center=true&vCenter=true&width=435&lines=Hello World!"/>
+</p>
+
 ##
 
 <div align="center">
@@ -93,11 +100,12 @@ I'm Rafael. I am currently learning web programming to expand my skill set. I ha
   </a>
 
 
-
-  
   <br>
+
    <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation">
-  
+  <p align="center"> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer"/> 
+  </p>
 </div>
   
  

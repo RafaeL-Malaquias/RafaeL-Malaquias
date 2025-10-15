@@ -80,27 +80,20 @@ I'm Rafael. I am currently learning web programming to expand my skill set. I ha
 <h1>📊 GitHub Stats:</h1>
 
 <div align="start">
-  <picture>
-      <source
-          srcset="https://github-readme-stats.vercel.app/api?username=RafaeL-Malaquias&show_icons=true&theme=tokyonight"
-          media="(prefers-color-scheme: dark)"
-        />
-        <source
-          srcset="https://github-readme-stats.vercel.app/api?username=RafaeL-Malaquias&show_icons=true"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img  src="https://github-readme-stats.vercel.app/api?username=RafaeL-Malaquias&show_icons=true" />
 
-
-        
-  </picture>
-
+  <a href="https://github.com/RafaeL-Malaquias/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=RafaeL-Malaquias&theme=tokyonight" />
+  </a>
+  
   <br>
-
+  <br>
 
   <a href="https://github.com/RafaeL-Malaquias/convoychat">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RafaeL-Malaquias&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
   </a>
+
+
+
   
   <br>
    <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation">

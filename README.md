@@ -1,11 +1,3 @@
-<!-- HEADER ANIMADO -->
-<h1 align="center">👋</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFEA&center=true&vCenter=true&width=435&lines=Hello World!"/>
-</p>
-
-##
 
 <div align="center">
     <img src="imgs/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif"  />

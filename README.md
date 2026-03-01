@@ -74,14 +74,10 @@ I'm Rafael. I am currently learning web programming to expand my skill set. I ha
 
 </div>
 
-
-
 <br>
 <br>
 
-
-
-   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation">
   <p align="center"> 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer"/> 
   </p>

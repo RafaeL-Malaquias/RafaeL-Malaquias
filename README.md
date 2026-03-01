@@ -76,29 +76,10 @@ I'm Rafael. I am currently learning web programming to expand my skill set. I ha
 
 
 
-
-
 <br>
 <br>
 
 
-<h1>📊 GitHub Stats:</h1>
-
-<div align="start">
-
-  <a href="https://github.com/RafaeL-Malaquias/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=RafaeL-Malaquias&theme=tokyonight" />
-  </a>
-  
-  <br>
-  <br>
-
-  <a href="https://github.com/RafaeL-Malaquias/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RafaeL-Malaquias&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
-  </a>
-
-
-  <br>
 
    <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation">
   <p align="center"> 

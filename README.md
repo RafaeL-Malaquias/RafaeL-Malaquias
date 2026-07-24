@@ -12,12 +12,13 @@
 
 <br>
 
-<!-- PROFILE BADGES -->
+<!-- PROFILE BADGES
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=RafaeL-Malaquias&style=for-the-badge&color=0d1117&labelColor=161b22&label=PROFILE+VIEWS" />
   <img src="https://img.shields.io/badge/FOCUS-CLOUD_NATIVE-0d1117?style=for-the-badge&labelColor=161b22&logo=kubernetes&logoColor=22c55e" />
   <img src="https://img.shields.io/badge/BASED_IN-DUBLIN,_IE-0d1117?style=for-the-badge&labelColor=161b22&logo=googlemaps&logoColor=22c55e" />
 </div>
+-->
 
 <br>
 

@@ -60,22 +60,6 @@ Welcome to my profile! I am a **Backend Engineer and Cloud/DevOps Enthusiast** b
 | **[Game Server Infra](#)** | Linux VPS management and containerization for a game server, handling high concurrent connections and UI integration. | `Docker`, `Linux`, `JS`, `CSS` | [View Source](#) |
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RafaeL-Malaquias&show_icons=true&hide_border=true&count_private=true&bg_color=060810&title_color=38bdf8&text_color=7a9ab8&icon_color=38bdf8" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RafaeL-Malaquias&hide_border=true&background=060810&ring=38bdf8&fire=fbbf24&currStreakLabel=38bdf8&sideLabels=7a9ab8&dates=ddeeff" width="48%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaeL-Malaquias&layout=compact&hide_border=true&bg_color=060810&title_color=38bdf8&text_color=7a9ab8" width="48%" />
-</div>
-
----
-
 ## 🌐 Let's Connect
 
 <div align="center">

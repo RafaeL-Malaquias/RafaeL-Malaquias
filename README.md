@@ -1,4 +1,10 @@
 <div align="center">
+  <img src="imgs/5.gif" width="100%" alt="Header" />
+</div>
+
+
+<!--
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:060810,100:075985&height=200&section=header&text=RafaeL%20Malaquias&fontSize=42&fontColor=ddeeff&fontAlignY=35&desc=Backend%20Engineer%20|%20Cloud%20Native%20|%20DevOps%20Enthusiast&descSize=16&descColor=7a9ab8&descAlignY=55&animation=fadeIn" width="100%" alt="Header" />
   
   <br>
@@ -67,3 +73,4 @@ Welcome to my profile! I am a **Backend Engineer and Cloud/DevOps Enthusiast** b
   <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-080c14?style=for-the-badge&logo=linkedin&logoColor=38bdf8" alt="LinkedIn" /></a>
   <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-080c14?style=for-the-badge&logo=minutemailer&logoColor=38bdf8" alt="Email" /></a>
 </div>
+-->

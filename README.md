@@ -1,76 +1,38 @@
 <div align="center">
-  <img src="imgs/5.gif" width="100%" alt="Header" />
+  <img src="imgs/5.gif" width="100%" alt="Animação de cabeçalho do perfil" />
 </div>
 
+# Olá, eu sou o RafaeL Malaquias 👋
 
-<!--
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:060810,100:075985&height=200&section=header&text=RafaeL%20Malaquias&fontSize=42&fontColor=ddeeff&fontAlignY=35&desc=Backend%20Engineer%20|%20Cloud%20Native%20|%20DevOps%20Enthusiast&descSize=16&descColor=7a9ab8&descAlignY=55&animation=fadeIn" width="100%" alt="Header" />
-  
-  <br>
+Desenvolvedor front-end com foco em **JavaScript, HTML e CSS**, construindo aplicações web interativas e consumindo APIs. Também estudo **Docker e infraestrutura** aplicada a ambientes de servidor.
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38bdf8&center=true&vCenter=true&width=500&lines=Building+Scalable+Backend+Systems;Designing+Multi-Cloud+Architectures;Automating+Infrastructure+with+Code;Mastering+DevOps+%26+CI%2FCD)](https://git.io/typing-svg)
-</div>
+## Tecnologias em prática
 
-<br>
+- JavaScript (vanilla)
+- HTML5 e CSS3
+- Consumo de APIs REST
+- Git e GitHub
+- Docker (em aprendizado prático)
 
-## 👨‍💻 About Me
+## Projetos em destaque
 
-Welcome to my profile! I am a **Backend Engineer and Cloud/DevOps Enthusiast** based in Dublin, Ireland 🇮🇪, focused on building robust, scalable, and highly available systems from the ground up.
+### 1) FocusTimer-V2.0
+Aplicação Pomodoro em JavaScript vanilla, com modularização, controle de estado, eventos, sons e deploy no GitHub Pages.
+- Repositório: https://github.com/RafaeL-Malaquias/FocusTimer-V2.0
+- Demo: https://rafael-malaquias.github.io/FocusTimer-V2.0/
 
-*   🚀 **What I'm building:** Scalable microservices, automated CI/CD pipelines, and robust cloud architectures using Infrastructure as Code (IaC).
-*   ☁️ **Cloud Native Mindset:** I understand the full software development lifecycle — from writing clean, efficient code to deploying, monitoring, and scaling applications in the cloud.
-*   🧠 **What I'm currently exploring:** Advanced Kubernetes orchestration, AWS certifications, and optimizing high-performance APIs in Go.
-*   💡 **Soft Skills:** Complex problem-solving, agile methodology, clear technical communication, and a deep passion for continuous learning and automation.
-*   🤝 **Looking for:** Open-source contributions, technical partnerships, and opportunities to tackle complex engineering challenges.
+### 2) Pokodex-PokeAPI
+Aplicação em JavaScript que consome a PokéAPI e renderiza informações de Pokémon na interface.
+- Repositório: https://github.com/RafaeL-Malaquias/Pokodex-PokeAPI
 
----
+### 3) Projeto-Discover
+Projeto front-end interativo em HTML, CSS e JavaScript com uso de dados em JSON.
+- Repositório: https://github.com/RafaeL-Malaquias/Projeto-Discover
 
-## 🛠️ Tech Stack & Tools
+### 4) Docker-MTA-Server
+Projeto relacionado a servidor MTA/FiveM com scripts Lua e experimentos de containerização com Docker.
+- Repositório: https://github.com/RafaeL-Malaquias/Docker-MTA-Server
 
-### 💻 Languages
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,python,cs,ruby,nodejs,js,bash&theme=dark" />
-  </a>
-</p>
+## Contato
 
-### ☁️ Cloud & DevOps
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,linux,githubactions,git&theme=dark" />
-  </a>
-</p>
-
-### 🗄️ Databases & Architecture
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" />
-  </a>
-  <br>
-  <br>
-  <img src="https://img.shields.io/badge/RESTful_APIs-080c14?style=flat-square&logo=json&logoColor=38bdf8" />
-  <img src="https://img.shields.io/badge/Microservices-080c14?style=flat-square&logo=kubernetes&logoColor=38bdf8" />
-  <img src="https://img.shields.io/badge/CI/CD-080c14?style=flat-square&logo=githubactions&logoColor=38bdf8" />
-  <img src="https://img.shields.io/badge/Observability-080c14?style=flat-square&logo=grafana&logoColor=38bdf8" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-| 🏆 Project Name | 📝 Description | ⚙️ Tech Stack | 🔗 Links |
-| :--- | :--- | :--- | :--- |
-| **[Capstone Project](#)** | Robust and scalable architecture demonstrating microservices deployment, load balancing, and high availability. | `Go`, `Kubernetes`, `AWS`, `Terraform` | [View Source](#) \| [Live Demo](#) |
-| **[BookBot](#)** | High-performance Python CLI pipeline designed for processing and analyzing large textual datasets efficiently. | `Python`, `Bash`, `Regex` | [View Source](#) |
-| **[Game Server Infra](#)** | Linux VPS management and containerization for a game server, handling high concurrent connections and UI integration. | `Docker`, `Linux`, `JS`, `CSS` | [View Source](#) |
-
----
-## 🌐 Let's Connect
-
-<div align="center">
-  <a href="https://rafam.codes"><img src="https://img.shields.io/badge/Portfolio-080c14?style=for-the-badge&logo=vercel&logoColor=38bdf8" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-080c14?style=for-the-badge&logo=linkedin&logoColor=38bdf8" alt="LinkedIn" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-080c14?style=for-the-badge&logo=minutemailer&logoColor=38bdf8" alt="Email" /></a>
-</div>
--->
+- GitHub: https://github.com/RafaeL-Malaquias

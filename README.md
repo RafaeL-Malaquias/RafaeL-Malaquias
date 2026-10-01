@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=180&section=header&text=RafaeL%20Malaquias&fontSize=52&fontColor=22d3ee&fontAlignY=38&desc=Junior%20Software%20Developer%20%E2%80%94%20Ireland&descSize=17&descAlignY=60&descColor=a78bfa&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=180&section=header&text=RafaeL%20Malaquias&fontSize=52&fontColor=22d3ee&fontAlignY=38&desc=Junior%20Software%20Developer%20%&descSize=17&descAlignY=60&descColor=a78bfa&animation=twinkling" />
 
 <!-- TYPING ANIMATION -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=22D3EE&center=true&vCenter=true&repeat=true&width=580&height=45&lines=Junior+Software+Developer;Front-end+Developer;Backend+Development+Learner;Linux+%26+Server+Enthusiast;Lua+%26+Game+Server+Developer;Building+and+deploying+personal+projects" alt="Typing SVG" />
@@ -175,23 +175,12 @@ What I am working toward:
 
 ---
 
-## 📬 Contact
 
-<div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-RafaeL--Malaquias-22d3ee?style=for-the-badge&logo=github&logoColor=0f172a&labelColor=1e293b)](https://github.com/RafaeL-Malaquias)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-a78bfa?style=for-the-badge&logo=linkedin&logoColor=0f172a&labelColor=1e293b)](<!-- INSERT_LINKEDIN_URL_HERE -->)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-10b981?style=for-the-badge&logo=vercel&logoColor=0f172a&labelColor=1e293b)](<!-- INSERT_PORTFOLIO_URL_HERE -->)
-[![Email](https://img.shields.io/badge/Email-Contact-f472b6?style=for-the-badge&logo=gmail&logoColor=0f172a&labelColor=1e293b)](mailto:<!-- INSERT_EMAIL_HERE -->)
-[![Discord](https://img.shields.io/badge/Discord-Chat-a78bfa?style=for-the-badge&logo=discord&logoColor=0f172a&labelColor=1e293b)](<!-- INSERT_DISCORD_URL_HERE -->)
-
-</div>
-
----
 
 <!-- FOOTER -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=110&section=footer&text=Keep%20learning.%20Keep%20building.%20Keep%20deploying.&fontSize=16&fontColor=a78bfa&fontAlignY=55&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=110&section=footer&text=Keep%20learning.%20Keep%20building.%20Keep%20deploying.&fontSize=16&fontColor=a78bfa&fontAlignY=20&animation=twinkling" />
 
 </div>
